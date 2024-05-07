@@ -1,6 +1,9 @@
 
 <h1 align="left">Olá! 👋Mundo, meu nome é Roseane.</h1>
 
+![Desenvolvedora web](https://github.com/Roseanedasilva1212/Roseanedasilva1212/assets/167696930/b6dea556-4773-4c09-a329-02a260d654d8)
+
+
 ###
 
 <h3 align="left">-👩‍🎓Sou formada em Gestão Financeira.<br>-💻Pós graduada em Engenharia de Software.<br>-📚Cursando o 3° em Análise e Desenvolvimento de Sistemas.<br>-💻Meu objetivo é conseguir minha primeira vaga de estágio como desenvolvedora web front end.
