@@ -1,8 +1,6 @@
 
 <h1 align="left">Olá! 👋Mundo, meu nome é Roseane.</h1>
 
-![Desenvolvedora web](https://github.com/Roseanedasilva1212/Roseanedasilva1212/assets/167696930/b6dea556-4773-4c09-a329-02a260d654d8)
-
 
 ###
 
