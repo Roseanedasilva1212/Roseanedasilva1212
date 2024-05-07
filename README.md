@@ -83,9 +83,8 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
+![inuyasha](https://github.com/Roseanedasilva1212/Roseanedasilva1212/assets/167696930/c2410a6a-811d-4441-b8b1-980ec6a97ed8)
+
 
 ###
 
