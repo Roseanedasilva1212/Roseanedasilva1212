@@ -83,11 +83,11 @@
   </a>
 </div>
 
-###
 
-![inuyasha](https://github.com/Roseanedasilva1212/Roseanedasilva1212/assets/167696930/c2410a6a-811d-4441-b8b1-980ec6a97ed8)
 
-![kouga](https://github.com/Roseanedasilva1212/Roseanedasilva1212/assets/167696930/6ec0cad6-a7ed-45b6-be07-26330d2ee75e)
+https://github.com/Roseanedasilva1212/Roseanedasilva1212/assets/167696930/7906aef3-c2c5-4b94-a857-34f855783294
+
+
 
 
 ###
