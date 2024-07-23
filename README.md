@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="left">-👩‍🎓Sou formada em Gestão Financeira.<br>-💻Pós graduada em Engenharia de Software.<br>-📚Cursando o 4° em Análise e Desenvolvimento de Sistemas.<br>-💻Meu objetivo é conseguir minha primeira vaga de estágio como desenvolvedora web front end junior iniciante. Atualmente crio projeto simples , ultilizando html,css e javascript. Estou buscando me aprimorar em outras linguagens de programação.
+<h3 align="left">-👩‍🎓 Atualmente crio projeto simples , ultilizando html,css e javascript. Estou buscando me aprimorar em outras linguagens de programação.
 
 
 <div align="left">
