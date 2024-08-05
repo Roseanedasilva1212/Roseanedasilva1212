@@ -93,4 +93,4 @@ https://github.com/Roseanedasilva1212/Roseanedasilva1212/assets/167696930/7906ae
 ###
 
 
-![Roseanedasilva1212 GitHub stats](https://github-readme-stats.vercel.app/api?username=Roseanedasilva1212&show_icons=true&theme=transparent)
+
