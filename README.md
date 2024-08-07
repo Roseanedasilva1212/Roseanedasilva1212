@@ -5,9 +5,7 @@
 ###
 
 <h3 align="left">-👩‍🎓 Atualmente crio projeto simples , ultilizando html,css e javascript. Estou buscando me aprimorar em outras linguagens de programação.
-- Instagram profissional: <a href="https://www.instagram.com/rose.codesweb/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+
 
 <div align="left">
 </div>
