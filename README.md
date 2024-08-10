@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3> <p>
 
 <a href="https://fb.com/roseane.silva.7334" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roseane.silva.7334" height="30" width="40" /></a>
-<a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" ></a>
+<a href="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
