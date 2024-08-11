@@ -1,11 +1,11 @@
 <h2 align="left">Hi 👋! Meu nome é Roseane, desenvolvedora web front end</h2>
 
 ###
-
-<h3 align="left">Tecnologias Utilizadas</h3>    <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+<div>
+<h3 align="left">Tecnologias Utilizadas</h3>    
 </div>
-
+<div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  </div>
 
 ###
 
