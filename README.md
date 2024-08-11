@@ -1,3 +1,4 @@
+![rose](https://github.com/user-attachments/assets/1658831e-120e-4f28-ba33-886f21db0488)
 <h2 align="left">Hi 👋! Meu nome é Roseane, desenvolvedora web front end</h2>
 
 ###
