@@ -2,7 +2,10 @@
 
 ###
 
-<h3 align="left">Tecnologias Utilizadas</h3>
+<h3 align="left">Tecnologias Utilizadas</h3>    <div align="center">
+  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+</div>
+
 
 ###
 
@@ -77,8 +80,5 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
 
 
