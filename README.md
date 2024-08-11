@@ -9,8 +9,7 @@
 ###
 
 
-  <div align="center"> <img height="200" src="![WhatsApp Image 2024-08-11 at 20 30 15 (1)](https://github.com/user-attachments/assets/c36dec74-7481-4ad6-85b7-4c11baf925d6)
-"  </div>
+  <div align="center"> <img height="200" src=""  </div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
