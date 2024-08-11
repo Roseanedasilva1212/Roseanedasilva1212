@@ -85,22 +85,5 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=gotham&username=ROSEANE%20DA%20SILVA" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 
