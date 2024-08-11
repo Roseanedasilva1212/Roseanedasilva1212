@@ -1,11 +1,14 @@
 
 <h2 align="left">Hi 👋! Meu nome é Roseane, desenvolvedora web front end</h2>
 
+
+
+<div align="center"> <img height="500" src="https://github.com/user-attachments/assets/1658831e-120e-4f28-ba33-886f21db0488" </div>
+
 ###
 <div>
-<h3 align="left">Tecnologias Utilizadas</h3>    
-</div>
-###
+<h3 align="left">Tecnologias Utilizadas</h3> </div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -13,12 +16,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
 </div>
-
-
-
-
-  <div align="center"> <img height="500" src="https://github.com/user-attachments/assets/1658831e-120e-4f28-ba33-886f21db0488" </div>
-
 
 
 ###
