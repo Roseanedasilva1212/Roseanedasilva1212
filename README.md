@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! Meu nome é Roseane, estudante do 4° de análise e desenvolvimento de sistemas </h2>
+<h2 align="left">Hi 👋! Meu nome é Roseane, desenvolvedora web em constante evolução </h2>
 
 
 
