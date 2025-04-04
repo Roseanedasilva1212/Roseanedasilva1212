@@ -1,7 +1,7 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # 😊Olá!, Eu sou a Roseane desenvolvedora web👋🏼:
-👨🏼‍🎓Estudante de análise e desenvolvimento de sistemas. 👨🏼‍💻Estou em busca da minha primeira oportunidade na área de programação web.
+👨🏼‍🎓Estudante de análise e desenvolvimento de sistemas. 
+👨🏼‍💻Estou em busca da minha primeira oportunidade na área de programação web.
 
 
 # 💻 Tecnologias:
