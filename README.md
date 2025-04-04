@@ -1,7 +1,7 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello World!, I'm Tobi, a German Web Developer 👋🏼:
-🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
+# Olá!, Eu sou a Roseane desenvolvedora web👋🏼:
+👨🏼‍🎓Estudante de análise e desenvolvimento de sisetmas 👨🏼‍💻estou em busca da minha primeira oportunidade na área de programação web. tackles tech</i>
 
 
 # 💻 Tech Stack:
