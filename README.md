@@ -1,5 +1,6 @@
 
-# 😊Olá!, Eu sou a Roseane desenvolvedora web👋🏼:
+# 😊Olá!, Eu sou a Roseane desenvolvedora web👋
+
 👨🏼‍🎓Estudante de análise e desenvolvimento de sistemas. 
 👨🏼‍🎓Especialista em Engenharia de Software e Docência do Ensino Supoerior
 
