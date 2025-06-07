@@ -1,7 +1,7 @@
 
 # 😊Olá!, Eu sou a Roseane desenvolvedora web👋
 
-👨🏼‍🎓Estudante de análise e desenvolvimento de sistemas,e specialista em engenharia de software e docência do ensino superior
+👨🏼‍🎓Estudante de Análise e Desenvolvimento de Sistemas
 
 
 # 💻 Tecnologias:
