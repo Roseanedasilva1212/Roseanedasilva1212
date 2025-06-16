@@ -1,10 +1,9 @@
 
 # 😊Olá!, Eu sou a Roseane Instrutora de Desenvolvimento Web e Inteligência Artificial 👋 
 
-Sou uma estudante de Análise e Desenvolvimento de Sistemas e apaixonada pelo mundo da tecnologia e inovação. Trabalho como desenvolvedora web, criando soluções eficientes e escaláveis.
+Apaixonada por inovação e tecnologia, construo experiências digitais intuitivas e eficientes como desenvolvedora web front-end. Além disso, atuo como instrutora de tecnologia e educação, compartilhando conhecimento e formando novos talentos com foco em inteligência artificial. 
 
-Com formação em Gestão Financeira e pós-graduação em Docência do Ensino Superior e Engenharia de Software, trago uma visão estratégica e acadêmica para o desenvolvimento de sistemas. Meu objetivo é unir conhecimento técnico e experiência prática para criar projetos de impacto.
-
+Sou formada em Gestão Financeira, com especialização em Docência do Ensino Superior e Engenharia de Software, e atualmente curso o quarto período de Análise e Desenvolvimento de Sistemas. Busco oportunidades para contribuir com projetos desafiadores, aplicar minha expertise em desenvolvimento e ensino, e impulsionar soluções inovadoras na área de tecnologia. 
 
 # 🚀💻 Tecnologias:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)   ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
