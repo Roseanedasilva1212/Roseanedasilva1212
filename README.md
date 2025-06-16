@@ -1,5 +1,5 @@
 
-# 😊Olá!, Eu sou a Roseane Instrutora de Tecnologia e Educação 👋 Desenvolvedora Web
+# 😊Olá!, Eu sou a Roseane Instrutora de Desenvolvimento Web e Intelig~encia Artificial 👋 
 
 Sou uma estudante de Análise e Desenvolvimento de Sistemas e apaixonada pelo mundo da tecnologia e inovação. Trabalho como desenvolvedora web, criando soluções eficientes e escaláveis.
 
