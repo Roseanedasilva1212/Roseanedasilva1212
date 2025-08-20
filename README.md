@@ -1,5 +1,5 @@
 
-# 😊Olá!, Eu sou a Roseane Instrutora de Desenvolvimento Web  👋 
+# 😊Olá!, Eu sou a Roseane da Silva  Desenvolvedora Web  👋 
 
 Apaixonada por inovação e tecnologia, construo experiências digitais intuitivas e eficientes como desenvolvedora web front-end. Além disso, atuo como instrutora de tecnologia e educação.
 
